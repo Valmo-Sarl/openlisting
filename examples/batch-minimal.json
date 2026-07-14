@@ -1,0 +1,27 @@
+{
+  "kind": "openlisting.batch",
+  "openlistingVersion": "0.1.1",
+  "source": "example",
+  "items": [
+    {
+      "id": "example_1",
+      "type": "classified_ad",
+      "title": "Vélo de course Cilo vintage",
+      "description": "Beau vélo suisse des années 80, entièrement révisé.",
+      "price": { "amount": 280, "currency": "CHF" },
+      "condition": "very_good",
+      "location": { "postalCode": "1700", "city": "Fribourg", "region": "FR", "country": "CH" },
+      "destinationData": {
+        "joomil": {
+          "categoryId": 78,
+          "adType": "offre",
+          "postalCode": "1700",
+          "city": "Fribourg",
+          "canton": "FR",
+          "country": "CH",
+          "phone": ""
+        }
+      }
+    }
+  ]
+}
