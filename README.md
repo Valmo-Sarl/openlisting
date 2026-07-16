@@ -106,3 +106,7 @@ libellés d'affichage localisés :
 
 - **0.1.1** (2026-07) — version en production : import Joomil, producteurs Insera & Insera mobile
 - 0.1.0 (2026-05) — MVP initial (openlisting-publisher)
+
+## Licence
+
+Spécification, schéma et exemples publiés sous [licence MIT](LICENSE).
